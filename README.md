@@ -1,1 +1,1 @@
-"# This is my new girt repo" 
+"# My Git Repository" 
